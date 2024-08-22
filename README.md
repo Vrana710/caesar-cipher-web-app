@@ -1,4 +1,3 @@
-```markdown
 # Caesar Cipher Web Application
 
 This project is a simple web application that implements a Caesar Cipher encryption algorithm using Python and Flask. The web interface allows users to input text and a shift key, and it provides the encrypted text based on the Caesar Cipher method.
@@ -105,17 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flask](https://flask.palletsprojects.com/) for the web framework.
 - [Python](https://www.python.org/) for the programming language.
 
-```
-
-### Key Sections Explained:
-
-- **Project Title and Description**: Gives an overview of what the project is about.
-- **Features**: Lists the key features of the application.
-- **Technology Stack**: Describes the technologies used.
-- **Getting Started**: Instructions for setting up and running the project.
-- **Usage**: Provides a guide on how to use the web application.
-- **Folder Structure**: Describes the organization of files and folders.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: Licensing information.
-
-Replace `https://github.com/Vrana710/caesar-cipher-web-app.git` with the actual URL of your GitHub repository, and adjust other project-specific details as needed.
